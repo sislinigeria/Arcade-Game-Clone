@@ -90,9 +90,9 @@ var allEnemies = [];
 //Location of the enemy
 var enemyLocation = [63, 147, 230];
 
-//In each of the enemy location move at the speed of 200 until randomly re-assigned
+//In each of the enemy location move at the speed of 280 until randomly re-assigned
 enemyLocation.forEach(function (locationY) {
-    enemy = new Enemy(0, locationY, 200);
+    enemy = new Enemy(0, locationY, 280);
     allEnemies.push(enemy);
 });
 // Place the player object in a variable called player
