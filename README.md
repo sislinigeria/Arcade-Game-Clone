@@ -29,6 +29,13 @@ To achieve this game, I had to breakdown the steps of the things I needed to do.
 
 This is a Browser based game and need no installation. 
 To Play, click [HERE](https://sislinigeria.github.io/Arcade-Game-Clone/)
+To Play the game locally, take the following steps;
+* Go to the game git repo https://github.com/sislinigeria/Arcade-Game-Clone
+* Download the zip file to your PC by clicking on **Download ZIP**
+    * ![How to](images/local.jpg)
+* Unzip the downloaded folder to your local disk
+* Inside the Game Folder, Double click on *index.html*
+* Then start playing
 
 ## Contributing
 
@@ -65,3 +72,4 @@ Credit to this work goes to
 * Youtube Video by Edoh Kodjo [fend-arcade-game](https://youtu.be/mgFWZGpj3IE)
 * [Introduction to HTML5 Canvas](https://medium.com/@AmyScript/introduction-to-html5-canvas-8c1bad20e855)
 * [HTML5 Canvas Tutorial](https://www.sitepoint.com/html5-canvas-tutorial-introduction/)
+* [How To Write A Great README](https://robots.thoughtbot.com/how-to-write-a-great-readme)
