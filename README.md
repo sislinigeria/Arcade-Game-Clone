@@ -5,6 +5,7 @@ frontend-nanodegree-arcade-game
 
 * [Requirements](#requirements)
 * [Installation](#installation)
+* [How to Play](#How-to-play)
 * [Contributing](#contributing)
 * [Status](#status)
 * [License](#license)
@@ -36,6 +37,15 @@ To Play the game locally, take the following steps;
 * Unzip the downloaded folder to your local disk
 * Inside the Game Folder, Double click on *index.html*
 * Then start playing.
+
+## How to play
+The objective of the game is to move the queen to the water without colliding with the enemies.
+* Use the **Up Arrow** key to move the queen (Player) up one tile at a time.
+* Use the **Down Arrow** key to move the queen (Player) down one tile at a time
+* Use the **Left Arrow** key to move to the left side of the screen one tile at a time
+* Use the **Right Arrow** key to move to the right side of the screen one tile at a time.
+
+Move the queen to the water, avoid colliding with the enemies.
 
 ## Contributing
 
