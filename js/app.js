@@ -28,10 +28,10 @@ Enemy.prototype.update = function(dt) {
 
     //While moving across the enemy area of the screen, check for collision
     //between the enemies and the player
-    if(player.x < this.x + 80 &&
-        player.x + 80 > this.x &&
-        player.y < this.y + 60 &&
-        60 + player.y > this.y) {
+    if(player.x < this.x + 40 &&
+        player.x + 40 > this.x &&
+        player.y < this.y + 30 &&
+        30 + player.y > this.y) {
             player.x = 202;
             player.y = 405;
         };
