@@ -34,7 +34,7 @@ Enemy.prototype.update = function(dt) {
         30 + player.y > this.y) {
             player.x = 202;
             player.y = 405;
-        };
+        }
 };
 
 // Draw the enemy on the screen, required method for game
@@ -80,7 +80,7 @@ Player.prototype.handleInput = function (keyPress) {
             player.x = 202;
             player.y = 405;
         }, 800);
-    };
+    }
 };
 
 // Now instantiate your objects.
